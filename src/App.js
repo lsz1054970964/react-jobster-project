@@ -1,4 +1,4 @@
-import { Landing, Error, Register, ProtectedRoute } from "./pages";
+import { Landing, Error, Register, ProtectedRoute } from "./pages/index";
 import {
   AllJobs,
   Profile,
