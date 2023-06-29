@@ -12,4 +12,4 @@ A React Project to display information and status of job applications
 
 ## Deployment
 - [Deployment platform: Netlify](https://www.netlify.com).
-- [Deployment link](symphonious-selkie-0e8837.netlify.app).
+- [Deployment link](https://symphonious-selkie-0e8837.netlify.app/landing).
